@@ -1,5 +1,9 @@
 # Major Incident Management
 
+<p align="center">
+  <img src="../images/major-incident-workflow.png" width="100%">
+</p>
+
 ## 1. Overview
 
 A Major Incident is a high-impact production issue that significantly affects business operations, customers, critical services, or application availability.
