@@ -1,7 +1,9 @@
 # Enterprise Application Support Playbook
 
+The following diagram provides a high-level overview of the Enterprise Application Support Playbook. It highlights the core areas covered in this repository, including application support processes, ITIL practices, production support, troubleshooting, Azure operations, runbooks, templates, and operational best practices. Use this as a quick reference to understand the overall structure before exploring the detailed documentation.
+
 <p align="center">
-  <img src="../images/banner.png" width="100%">
+  <img src="../images/banner.png" alt="Enterprise Application Support Playbook Overview" width="100%">
 </p>
 
 ## 1. Introduction
