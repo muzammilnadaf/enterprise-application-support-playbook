@@ -92,17 +92,17 @@ A typical enterprise support ecosystem includes:
 
 
 Users
-|
+<br>&#11015;<br>
 Business Teams
-|
+<br>&#11015;<br>
 Application Support Team
-|
+<br>&#11015;<br>
 Development Team
-|
+<br>&#11015;<br>
 Database Team
-|
+<br>&#11015;<br>
 Infrastructure Team
-|
+<br>&#11015;<br>
 Cloud / Security / Network Teams
 
 
@@ -186,21 +186,21 @@ Enterprise application support follows a continuous lifecycle:
 
 
 Monitor
-|
+<br>&#11015;<br>
 Detect Issue
-|
+<br>&#11015;<br>
 Create Incident
-|
+<br>&#11015;<br>
 Analyze Impact
-|
+<br>&#11015;<br>
 Troubleshoot
-|
+<br>&#11015;<br>
 Resolve
-|
+<br>&#11015;<br>
 Validate
-|
+<br>&#11015;<br>
 Document
-|
+<br>&#11015;<br>
 Improve
 
 
