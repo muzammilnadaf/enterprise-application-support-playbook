@@ -413,7 +413,3 @@ This playbook represents a structured approach toward building world-class appli
 **Author:** Application Support Engineering Knowledge Repository  
 **Purpose:** Enterprise Application Support Best Practices  
 **Version:** 1.0
-
-**Author:** Application Support Engineering Knowledge Repository  
-**Purpose:** Enterprise Application Support Best Practices  
-**Version:** 1.0
