@@ -20,7 +20,7 @@ The lifecycle provides a framework for collaboration between development teams, 
 
 The application support lifecycle consists of the following stages:
 
-
+<p align="center">
 Application Development
 &nbsp;&nbsp;&nbsp;<br align="center">&#11015;<br>
 Production Readiness
@@ -36,7 +36,7 @@ Continuous Improvement
 Application Enhancement
          <br>&#11015;<br>
 Application Retirement
-
+</p>
 
 ---
 
