@@ -1,7 +1,9 @@
 # Major Incident Management
 
+The following workflow provides an overview of the major incident management process used to restore critical business services as quickly as possible. It highlights major incident declaration, stakeholder communication, technical investigation, service restoration, validation, documentation, and post-incident review.
+
 <p align="center">
-  <img src="../images/major-incident-workflow.png" width="100%">
+  <img src="../images/major-incident-workflow.png" alt="Major Incident Management Workflow" width="100%">
 </p>
 
 ## 1. Overview
