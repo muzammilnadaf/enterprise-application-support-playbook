@@ -1,7 +1,9 @@
 # Incident Management
 
+The following workflow illustrates the standard incident management process followed by enterprise application support teams. It covers the complete lifecycle from incident reporting and logging through investigation, resolution, validation, documentation, and closure while ensuring SLA compliance and effective communication.
+
 <p align="center">
-  <img src="../images/incident-management-workflow.png" width="100%">
+  <img src="../images/incident-management-workflow.png" alt="Incident Management Workflow" width="100%">
 </p>
 
 ## 1. Overview
