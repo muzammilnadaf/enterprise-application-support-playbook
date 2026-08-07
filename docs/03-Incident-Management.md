@@ -1,5 +1,9 @@
 # Incident Management
 
+<p align="center">
+  <img src="../images/incident-management-workflow.png" width="100%">
+</p>
+
 ## 1. Overview
 
 Incident Management is the process of identifying, analyzing, resolving, and documenting issues that impact application availability, functionality, or user experience.
