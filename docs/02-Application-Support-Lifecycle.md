@@ -1,5 +1,9 @@
 # Application Support Lifecycle
 
+<p align="center">
+  <img src="../images/support-lifecycle.png" width="100%">
+</p>
+
 ## 1. Overview
 
 The Application Support Lifecycle defines the stages an enterprise application goes through from introduction into production until retirement.
