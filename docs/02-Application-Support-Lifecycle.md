@@ -1,4 +1,4 @@
-## Enterprise Application Support Lifecycle
+# Enterprise Application Support Lifecycle
 
 The following diagram provides a high-level overview of the complete application support lifecycle, from monitoring and incident detection to resolution, validation, and continuous improvement.
 
