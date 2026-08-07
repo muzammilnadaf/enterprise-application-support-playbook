@@ -1,5 +1,11 @@
 # 🚀 Enterprise Application Support Playbook
 
+<p align="center">
+  <img src="images/banner.png" alt="Enterprise Application Support Playbook Banner" width="100%">
+</p>
+
+A practical knowledge repository covering enterprise application support, production operations, troubleshooting, ITIL processes, Azure application support, runbooks, templates, and operational best practices.
+
 > A comprehensive guide to Enterprise Application Support, L2/L3 Production Support, Incident Management, Release Management, Root Cause Analysis, and Operational Excellence.
 
 ![GitHub stars](https://img.shields.io/github/stars/mnadaf/enterprise-application-support-playbook?style=for-the-badge)
