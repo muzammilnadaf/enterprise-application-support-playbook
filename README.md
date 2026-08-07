@@ -219,7 +219,7 @@ It does **not** contain confidential code, proprietary documentation, customer d
 
 # 📬 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/muzammilnadaf/
 - GitHub: https://github.com/mnadaf
 
 ---
