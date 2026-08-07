@@ -22,7 +22,7 @@ The application support lifecycle consists of the following stages:
 
 
 Application Development
-<br>&#11015;<br>
+<br align="center">&#11015;<br>
 Production Readiness
 <br>&#11015;<br>
 Knowledge Transfer
