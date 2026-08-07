@@ -1,5 +1,9 @@
 # Enterprise Application Support Playbook
 
+<p align="center">
+  <img src="images/banner.png" width="100%">
+</p>
+
 ## 1. Introduction
 
 Welcome to the **Enterprise Application Support Playbook** — a practical and structured guide designed to document the processes, methodologies, tools, and best practices required for providing reliable **L1, L2, and L3 application support** in enterprise environments.
