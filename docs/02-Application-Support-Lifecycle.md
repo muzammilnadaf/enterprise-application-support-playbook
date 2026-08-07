@@ -21,9 +21,9 @@ The lifecycle provides a framework for collaboration between development teams, 
 The application support lifecycle consists of the following stages:
 
 
-Application Development
-&#11015;
-Production Readiness
+Application Development<br>
+&#11015;<br>
+Production Readiness<br>
 |
 Knowledge Transfer
 |
