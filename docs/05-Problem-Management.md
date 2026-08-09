@@ -1,5 +1,11 @@
 # Problem Management
 
+The following workflow provides an overview of the Problem Management process used to identify recurring or significant incidents, investigate underlying causes, implement corrective and preventive actions, and prevent future service disruption. It highlights problem identification, investigation, root cause analysis, known error management, corrective actions, resolution, closure, and continuous improvement.
+
+<p align="center">
+  <img src="../images/problem-management-workflow.png" alt="Problem Management Workflow" width="100%">
+</p>
+
 ## 1. Overview
 
 Problem Management focuses on identifying the root cause of incidents and implementing permanent solutions to prevent recurrence.
