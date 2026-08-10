@@ -1,5 +1,11 @@
 # Monitoring and Alert Management
 
+The following workflow provides an overview of the Monitoring and Alert Management process used to proactively detect application, infrastructure, database, and service issues before they significantly impact business operations. It highlights monitoring setup, alert configuration, alert detection and acknowledgement, investigation, resolution and recovery, alert closure, escalation, and continuous improvement.
+
+<p align="center">
+  <img src="../images/monitoring-and-alert-management-workflow.png" alt="Monitoring and Alert Management Workflow" width="100%">
+</p>
+
 ## 1. Overview
 
 Application monitoring is the process of continuously observing application health, performance, availability, and dependencies.
