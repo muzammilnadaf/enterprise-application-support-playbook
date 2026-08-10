@@ -1,5 +1,11 @@
 # Knowledge Management
 
+The following workflow provides an overview of the Knowledge Management process used to capture, organize, validate, share, reuse, and continuously improve operational knowledge within enterprise application support teams. It highlights knowledge identification, knowledge capture, organization, review and validation, publication, reuse, maintenance, and measurement, along with common knowledge types, content examples, roles, tools, and benefits.
+
+<p align="center">
+  <img src="../images/knowledge-management-process.png" alt="Knowledge Management Process" width="100%">
+</p>
+
 ## 1. Overview
 
 Knowledge Management is the process of capturing, organizing, maintaining, and sharing application-related information to improve support efficiency.
