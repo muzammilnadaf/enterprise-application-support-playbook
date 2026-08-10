@@ -1,5 +1,11 @@
 # SLA and Service Management
 
+The following visual provides an overview of Service Level Agreement (SLA) and Service Management practices used to define service commitments, establish measurable targets, monitor service performance, manage incidents against agreed priorities, and drive continuous improvement. It highlights the SLA lifecycle, SLA types, key service metrics, priority-based response and resolution targets, roles and responsibilities, compliance monitoring, governance practices, and the benefits of effective SLA management.
+
+<p align="center">
+  <img src="../images/sla-and-service-management.png" alt="SLA and Service Management Overview" width="100%">
+</p>
+
 ## 1. Purpose
 
 This document explains the importance of Service Level Agreements (SLAs) and service management practices in enterprise application support.
