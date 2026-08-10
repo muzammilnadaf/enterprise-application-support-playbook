@@ -1,5 +1,11 @@
 # Root Cause Analysis (RCA)
 
+The following workflow provides an overview of the Root Cause Analysis (RCA) process used to investigate significant or recurring production incidents and identify the underlying causes rather than addressing only the immediate symptoms. It highlights problem definition, evidence collection, timeline analysis, contributing-factor identification, root cause determination, corrective and preventive actions, validation, documentation, and follow-up.
+
+<p align="center">
+  <img src="../images/root-cause-analysis-workflow.png" alt="Root Cause Analysis Workflow" width="100%">
+</p>
+
 ## 1. Overview
 
 Root Cause Analysis (RCA) is a structured approach used to identify the actual reason behind an incident or failure.
