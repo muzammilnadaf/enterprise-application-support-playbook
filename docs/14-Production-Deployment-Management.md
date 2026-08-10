@@ -1,5 +1,11 @@
 # Production Deployment Management
 
+The following visual provides an overview of Production Deployment Management practices used to plan, prepare, execute, validate, monitor, and continuously improve production deployments while minimizing business and service impact. It highlights the production deployment lifecycle, pre-deployment readiness checks, deployment strategies, rollback planning, post-deployment validation, common risks and mitigations, key metrics, environment promotion, validation checks, roles and responsibilities, and deployment best practices.
+
+<p align="center">
+  <img src="../images/production-deployment-management.png" alt="Production Deployment Management Lifecycle" width="100%">
+</p>
+
 ## 1. Purpose
 
 This document explains the production deployment management process followed by application support teams to ensure controlled, reliable, and risk-free application releases.
