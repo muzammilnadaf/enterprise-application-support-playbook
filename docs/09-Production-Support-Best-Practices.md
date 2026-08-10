@@ -1,5 +1,11 @@
 # Production Support Best Practices
 
+The following visual summarizes the key Production Support best practices required to maintain stable, reliable, and efficient enterprise applications. It highlights customer focus, proactive monitoring, rapid response, effective communication, root cause focus, accurate documentation, standardization, collaboration, continuous improvement, and ownership. It also covers best practices across Incident, Problem, Change, Release, and Monitoring & Alert Management.
+
+<p align="center">
+  <img src="../images/production-support-best-practices.png" alt="Production Support Best Practices" width="100%">
+</p>
+
 ## 1. Overview
 
 Production support requires a disciplined approach to maintain application stability, ensure timely issue resolution, and minimize business impact.
