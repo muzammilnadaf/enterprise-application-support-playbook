@@ -1,5 +1,11 @@
 # Change Management
 
+The following workflow provides an overview of the Change Management process used to assess, approve, implement, validate, and close changes in enterprise application environments. It highlights change classification, impact and risk assessment, approval, implementation planning, deployment, validation, rollback handling, and post-change review.
+
+<p align="center">
+  <img src="../images/change-management-workflow.png" alt="Change Management Workflow" width="100%">
+</p>
+
 ## 1. Overview
 
 Change Management ensures that modifications to applications, infrastructure, databases, configurations, and integrations are implemented in a controlled and predictable manner.
