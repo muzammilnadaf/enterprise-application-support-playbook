@@ -1,5 +1,11 @@
 # Release Management
 
+The following lifecycle provides an overview of the Release Management process used to plan, prepare, test, deploy, validate, and close application releases in enterprise environments. It highlights release planning, scope validation, development, quality assurance, deployment preparation, production release, post-release validation, and continuous improvement.
+
+<p align="center">
+  <img src="../images/release-management-lifecycle.png" alt="Release Management Lifecycle" width="100%">
+</p>
+
 ## 1. Overview
 
 Release Management is the process of planning, coordinating, deploying, and validating application changes across different environments.
