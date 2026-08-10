@@ -1,5 +1,11 @@
 # Application Troubleshooting Guide
 
+The following guide provides a structured approach to troubleshooting enterprise applications by identifying the issue, verifying and reproducing the problem, collecting relevant data and evidence, analyzing the affected component, implementing a resolution, validating service recovery, documenting the outcome, and preventing recurrence. It also highlights troubleshooting by application layers, common production issues, diagnostic checks, log locations, monitoring tools, escalation paths, and support best practices.
+
+<p align="center">
+  <img src="../images/application-troubleshooting-guide.png" alt="Application Troubleshooting Guide" width="100%">
+</p>
+
 ## 1. Overview
 
 Application troubleshooting is a structured approach used to identify and resolve issues affecting application availability, functionality, or performance.
